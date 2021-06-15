@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+https://coderstats.net/github/#vibranium21 this has statistics about my coding<!--
 **vibranium21/vibranium21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
