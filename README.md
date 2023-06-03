@@ -1,4 +1,4 @@
-Hi! I have just recently started coding in well, not HTML and CSS.
+Hi! I have just recently started coding in not HTML and CSS.
 I know basic, and intermediate Python, and I am in the process of learning Basic and intermediate PHP.
 
 
